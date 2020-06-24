@@ -1,5 +1,5 @@
 # Flying Device
-Code for flying device and it's remote control, which using Iskra Nano Pro and nRF24L01.
+Code for flying device and it's remote control, which using Arduino Nano and nRF24L01.
 
 Connections:
 
@@ -27,5 +27,4 @@ SCL - A5
 
 2nd motor:
 5V - 6
-GND - GND# walleologie_fd
-# walleologie_fd
+GND - GND
